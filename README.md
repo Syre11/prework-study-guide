@@ -1,5 +1,4 @@
-image.png# prework-study-guide
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 
 ## Description
