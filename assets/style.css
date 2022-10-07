@@ -39,3 +39,7 @@ p {
     border: 5px solid rgb(99, 158, 148);
     box-shadow: 5px 10px #4b6da0;
   }
+
+  .images {
+    min-width: 750px;
+  }
